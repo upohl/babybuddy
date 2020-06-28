@@ -78,7 +78,7 @@ msgstr "Sprache"
 
 #: babybuddy/models.py:47
 msgid "Timezone"
-msgstr ""
+msgstr "Zeitzone"
 
 #: babybuddy/models.py:51
 #, python-brace-format
@@ -95,19 +95,19 @@ msgstr "Französisch"
 
 #: babybuddy/settings/base.py:145
 msgid "German"
-msgstr ""
+msgstr "Deutsch"
 
 #: babybuddy/settings/base.py:146
 msgid "Spanish"
-msgstr ""
+msgstr "Spanisch"
 
 #: babybuddy/settings/base.py:147
 msgid "Swedish"
-msgstr ""
+msgstr "Schwedisch"
 
 #: babybuddy/settings/base.py:148
 msgid "Turkish"
-msgstr ""
+msgstr "Türkisch"
 
 #: babybuddy/templates/403.html:4 babybuddy/templates/403.html:7
 msgid "Permission Denied"
@@ -125,7 +125,7 @@ msgstr ""
 #: babybuddy/templates/admin/base_site.html:7
 #: babybuddy/templates/babybuddy/nav-dropdown.html:250
 msgid "Database Admin"
-msgstr ""
+msgstr "Datenbank Admin"
 
 #: babybuddy/templates/babybuddy/base.html:36
 msgid "Home"
@@ -311,7 +311,7 @@ msgstr "Benutzer"
 
 #: babybuddy/templates/babybuddy/nav-dropdown.html:242
 msgid "Password"
-msgstr "Passowrt"
+msgstr "Passwort"
 
 #: babybuddy/templates/babybuddy/nav-dropdown.html:243
 msgid "Logout"
@@ -386,7 +386,7 @@ msgstr "Benutzer löschen"
 #: core/templates/core/weight_confirm_delete.html:8
 #: core/templates/core/weight_confirm_delete.html:17
 msgid "Delete"
-msgstr "löschen"
+msgstr "Löschen"
 
 #: babybuddy/templates/babybuddy/user_confirm_delete.html:15
 #: core/templates/core/child_confirm_delete.html:15
@@ -550,7 +550,7 @@ msgstr ""
 #: core/templates/core/diaperchange_list.html:12
 #: dashboard/templates/cards/diaperchange_types.html:4
 msgid "Diaper Changes"
-msgstr "Windel-Wechsel"
+msgstr "Windelwechsel"
 
 #: babybuddy/templates/babybuddy/welcome.html:56
 msgid ""
@@ -770,7 +770,7 @@ msgstr "Start-Zeit"
 
 #: core/models.py:204 core/models.py:301 core/models.py:403 core/models.py:504
 msgid "End time"
-msgstr "End-Zeit"
+msgstr "Endzeit"
 
 #: core/models.py:209 core/models.py:306 core/models.py:408 core/models.py:509
 #: core/templates/core/feeding_list.html:30
@@ -898,7 +898,7 @@ msgstr "Windelwechsel ändern."
 #: core/templates/core/diaperchange_form.html:8
 #: core/templates/core/diaperchange_form.html:27
 msgid "Add a Diaper Change"
-msgstr "Windel-Wechsel hinzufügen"
+msgstr "Windelwechsel hinzufügen"
 
 #: core/templates/core/diaperchange_form.html:17
 #: core/templates/core/feeding_form.html:17
@@ -909,7 +909,7 @@ msgstr "Hinzufügen"
 
 #: core/templates/core/diaperchange_list.html:15
 msgid "Add Diaper Change"
-msgstr "Windel-Wechsel hinzufügen"
+msgstr "Windelwechsel hinzufügen"
 
 #: core/templates/core/diaperchange_list.html:68
 msgid "No diaper changes found."
@@ -962,19 +962,19 @@ msgstr "Keine Notizen gefunden."
 
 #: core/templates/core/sleep_confirm_delete.html:4
 msgid "Delete a Sleep Entry"
-msgstr "Einen Schlaf-Eintrag löschen"
+msgstr "Einen Schlafeintrag löschen"
 
 #: core/templates/core/sleep_form.html:6
 msgid "Update a Sleep Entry"
-msgstr "Einen Schlaf-Eintrag ändern"
+msgstr "Einen Schlafeintrag ändern"
 
 #: core/templates/core/sleep_form.html:8 core/templates/core/sleep_form.html:27
 msgid "Add a Sleep Entry"
-msgstr "Schlaf-Eintrag hinzufügen"
+msgstr "Schlafeintrag hinzufügen"
 
 #: core/templates/core/sleep_list.html:15
 msgid "Add Sleep"
-msgstr ""
+msgstr "Schlaf hinzufügen"
 
 #: core/templates/core/sleep_list.html:26
 #: core/templates/core/timer_form.html:12
@@ -991,11 +991,11 @@ msgstr "Ende"
 
 #: core/templates/core/sleep_list.html:28
 msgid "Nap"
-msgstr "Nickerchen"
+msgstr "Schläfchen"
 
 #: core/templates/core/sleep_list.html:66
 msgid "No sleep entries found."
-msgstr "Keine Schlaf-Einträge gefunden."
+msgstr "Keine Schlafeinträge gefunden."
 
 #: core/templates/core/temperature_confirm_delete.html:4
 msgid "Delete a Temperature Reading"
@@ -1008,7 +1008,7 @@ msgstr "Mahlzeit hinzufügen"
 
 #: core/templates/core/temperature_form.html:27
 msgid "Add a Temperature Entry"
-msgstr "Schlaf-Eintrag hinzufügen"
+msgstr "Schlafeintrag hinzufügen"
 
 #: core/templates/core/temperature_list.html:15
 msgid "Add Temperature Reading"
@@ -1025,16 +1025,16 @@ msgstr "Lösche %(object)s"
 
 #: core/templates/core/timer_confirm_delete_inactive.html:5
 msgid "Delete All Inactive Timers"
-msgstr ""
+msgstr "Lösche alle inaktiven Timer"
 
 #: core/templates/core/timer_confirm_delete_inactive.html:10
 msgid "Delete Inactive"
-msgstr ""
+msgstr "Lösche Inaktive"
 
 #: core/templates/core/timer_confirm_delete_inactive.html:17
 #, python-format
 msgid "Are you sure you want to delete %(number)s inactive timer%(plural)s?"
-msgstr ""
+msgstr "Bist du sicher, dass du %(number)s inaktive Timer löschen möchtest?"
 
 #: core/templates/core/timer_detail.html:28
 msgid "Started"
@@ -1064,11 +1064,11 @@ msgstr "Keine Timer-Einträge gefunden."
 
 #: core/templates/core/timer_list.html:62
 msgid "Delete Inactive Timers"
-msgstr ""
+msgstr "Lösche inaktive Timer"
 
 #: core/templates/core/timer_nav.html:15
 msgid "Quick Start Timer"
-msgstr "Quick-Start Timer"
+msgstr "Schnellstart Timer"
 
 #: core/templates/core/timer_nav.html:23
 msgid "View Timers"
@@ -1106,7 +1106,7 @@ msgstr "Bauchzeit-Eintrag hinzufügen"
 
 #: core/templates/core/tummytime_list.html:15
 msgid "Add Tummy Time"
-msgstr ""
+msgstr "Bauchzeit hinzufügen"
 
 #: core/templates/core/tummytime_list.html:59
 msgid "No tummy time entries found."
@@ -1114,21 +1114,21 @@ msgstr "Keine Bauchzeit-Einträge gefunden."
 
 #: core/templates/core/weight_confirm_delete.html:4
 msgid "Delete a Weight Entry"
-msgstr "Gewichts-Eintrag löschen"
+msgstr "Gewichtseintrag löschen"
 
 #: core/templates/core/weight_form.html:8
 #: core/templates/core/weight_form.html:17
 #: core/templates/core/weight_form.html:27
 msgid "Add a Weight Entry"
-msgstr "Gewichts-Eintrag hinzufügen"
+msgstr "Gewichtseintrag hinzufügen"
 
 #: core/templates/core/weight_list.html:15
 msgid "Add Weight"
-msgstr ""
+msgstr "Gewicht Hinzufügen"
 
 #: core/templates/core/weight_list.html:62
 msgid "No weight entries found."
-msgstr "Keine Gewichts-Einträge gefunden."
+msgstr "Keine Gewichtseinträge gefunden."
 
 #: core/timeline.py:24
 #, python-format
@@ -1229,19 +1229,19 @@ msgstr "%(model)s Eintrag für %(child)s geändert! "
 #: core/views.py:341
 #, python-format
 msgid "%(timer)s stopped."
-msgstr "%(timer)s gestoppt.."
+msgstr "%(timer)s gestoppt."
 
 #: core/views.py:365
 msgid "All inactive timers deleted."
-msgstr ""
+msgstr "Alle inaktiven Timer gelöscht"
 
 #: core/views.py:375
 msgid "No inactive timers exist."
-msgstr ""
+msgstr "Keine inaktiven Timer existieren."
 
 #: dashboard/templates/cards/diaperchange_last.html:4
 msgid "Last Diaper Change"
-msgstr "Letzer Windel-Wechsel"
+msgstr "Letzer Windelwechsel"
 
 #: dashboard/templates/cards/diaperchange_last.html:8
 #: dashboard/templates/cards/feeding_last.html:8
@@ -1286,12 +1286,12 @@ msgstr "Letze Mahlzeit-Methode"
 
 #: dashboard/templates/cards/feeding_last_method.html:15
 msgid "most recent"
-msgstr ""
+msgstr "Letzte"
 
 #: dashboard/templates/cards/feeding_last_method.html:17
 #, python-format
 msgid "%(n)s feeding%(plural)s ago"
-msgstr ""
+msgstr "Vor %(n)s Mahlzeit%(plural)en"
 
 #: dashboard/templates/cards/sleep_day.html:4
 msgid "Today's Sleep"
@@ -1300,7 +1300,7 @@ msgstr "Schlaf heute"
 #: dashboard/templates/cards/sleep_day.html:16
 #, python-format
 msgid "%(count)s sleep entries"
-msgstr "%(count)s Schlaf-Einträge"
+msgstr "%(count)s Schlafeinträge"
 
 #: dashboard/templates/cards/sleep_last.html:4
 msgid "Last Sleep"
@@ -1356,7 +1356,7 @@ msgstr "Aktionen des Kindes"
 
 #: dashboard/templates/dashboard/child_button_group.html:19
 msgid "Diaper Change Amounts"
-msgstr ""
+msgstr "Anzahl Windelwechsel"
 
 #: dashboard/templates/dashboard/child_button_group.html:20
 #: reports/templates/reports/diaperchange_types.html:4
@@ -1378,7 +1378,7 @@ msgstr "Mahlzeiten"
 
 #: dashboard/templates/dashboard/child_button_group.html:23
 msgid "Feeding Durations (Average)"
-msgstr "Mahlzeit Dauer (Durschschnitt)"
+msgstr "Mahlzeitdauer (Durschschnitt)"
 
 #: dashboard/templates/dashboard/child_button_group.html:24
 #: reports/templates/reports/sleep_pattern.html:4
@@ -1402,11 +1402,11 @@ msgstr "Freuqenz Mahlzeiten"
 
 #: dashboard/templatetags/cards.py:182
 msgid "Average nap duration"
-msgstr "Durschnittliche Nickerchen-Dauer"
+msgstr "Durschnittliche Schläfchen-Dauer"
 
 #: dashboard/templatetags/cards.py:186
 msgid "Average naps per day"
-msgstr "Durschnittliche Anzahl Nickerchen"
+msgstr "Durschnittliche Anzahl Schläfchen"
 
 #: dashboard/templatetags/cards.py:192
 msgid "Average sleep duration"
