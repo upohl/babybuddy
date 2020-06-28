@@ -1308,12 +1308,12 @@ msgstr "Zuletzt geschlafen"
 
 #: dashboard/templates/cards/sleep_naps_day.html:4
 msgid "Today's Naps"
-msgstr "Heutige Nickerchen"
+msgstr "Heutige Schläfchen"
 
 #: dashboard/templates/cards/sleep_naps_day.html:8
 #, python-format
 msgid "%(count)s nap%(plural)s"
-msgstr "%(count)s schläfchen%(plural)s."
+msgstr "%(count)s schläfchen"
 
 #: dashboard/templates/cards/statistics.html:6
 msgid "Statistics"
@@ -1422,31 +1422,31 @@ msgstr "Gewichtsänderung pro Woche"
 
 #: reports/graphs/diaperchange_amounts.py:27
 msgid "Diaper change amount"
-msgstr ""
+msgstr "Windelwechsel"
 
 #: reports/graphs/diaperchange_amounts.py:36
 msgid "<b>Diaper Change Amounts</b>"
-msgstr ""
+msgstr "Windelwechsel"
 
 #: reports/graphs/diaperchange_amounts.py:39
 msgid "Change amount"
-msgstr ""
+msgstr "Anzahl Wechsel"
 
 #: reports/graphs/diaperchange_lifetimes.py:35
 msgid "<b>Diaper Lifetimes</b>"
-msgstr "<b>Windel-Lebensdauer</b>"
+msgstr "<b>Windel-Tragedauer</b>"
 
 #: reports/graphs/diaperchange_lifetimes.py:36
 msgid "Time between changes (hours)"
-msgstr "Zeit zwischen wechseln (Stunden)"
+msgstr "Zeit zwischen Wechsel (Stunden)"
 
 #: reports/graphs/diaperchange_types.py:39
 msgid "Total"
-msgstr "Total"
+msgstr "Gesamt"
 
 #: reports/graphs/diaperchange_types.py:46
 msgid "<b>Diaper Change Types</b>"
-msgstr "<b>Windel-Wechsel Typen</b>"
+msgstr "<b>Windelwechsel Typen</b>"
 
 #: reports/graphs/diaperchange_types.py:49
 msgid "Number of changes"
@@ -1454,15 +1454,15 @@ msgstr "Anzahl Wechsel"
 
 #: reports/graphs/feeding_amounts.py:27
 msgid "Total feeding amount"
-msgstr "Total Mahlzeiten"
+msgstr "Mahlzeiten Gesamt"
 
 #: reports/graphs/feeding_amounts.py:36
 msgid "<b>Total Feeding Amounts</b>"
-msgstr "<b>Durchschnittliche Mahlzeiten-Dauer</b>"
+msgstr "<b>Durchschnittliche Mahlzeitendauer</b>"
 
 #: reports/graphs/feeding_amounts.py:39
 msgid "Feeding amount"
-msgstr "Mahlzeit"
+msgstr "Anzahl Mahlzeiten"
 
 #: reports/graphs/feeding_duration.py:36
 msgid "Average duration"
@@ -1470,11 +1470,11 @@ msgstr "Durchschnittliche Dauer"
 
 #: reports/graphs/feeding_duration.py:44
 msgid "Total feedings"
-msgstr "Total Mahlzeiten"
+msgstr "Gesamtmahlzeiten"
 
 #: reports/graphs/feeding_duration.py:53
 msgid "<b>Average Feeding Durations</b>"
-msgstr "<b>Durchschnittliche Mahlzeiten-Dauer</b>"
+msgstr "<b>Durchschnittliche Mahlzeitdauer</b>"
 
 #: reports/graphs/feeding_duration.py:56
 msgid "Average duration (minutes)"
@@ -1486,7 +1486,7 @@ msgstr "Anzahl Mahlzeiten"
 
 #: reports/graphs/sleep_pattern.py:128
 msgid "<b>Sleep Pattern</b>"
-msgstr "<b>Schlaf-Rhythmus</b>"
+msgstr "<b>Schlafrhythmus</b>"
 
 #: reports/graphs/sleep_pattern.py:141
 msgid "Time of day"
@@ -1494,15 +1494,15 @@ msgstr "Tageszeit"
 
 #: reports/graphs/sleep_totals.py:40
 msgid "Total sleep"
-msgstr "Total Schlaf"
+msgstr "Gesamtschlaf"
 
 #: reports/graphs/sleep_totals.py:50
 msgid "<b>Sleep Totals</b>"
-msgstr "<b>Totale Schlaf-Zeit</b>"
+msgstr "<b>Gesamte Schlafzeit</b>"
 
 #: reports/graphs/sleep_totals.py:53
 msgid "Hours of sleep"
-msgstr "Schlaf-Stunden"
+msgstr "Schlafstunden"
 
 #: reports/graphs/weight_weight.py:27
 msgid "<b>Weight</b>"
@@ -1511,12 +1511,12 @@ msgstr "<b>Gewicht</b>"
 #: reports/templates/reports/diaperchange_amounts.html:4
 #: reports/templates/reports/diaperchange_amounts.html:8
 msgid "Diaper Amounts"
-msgstr ""
+msgstr "Wechsel Anzahl"
 
 #: reports/templates/reports/feeding_duration.html:4
 #: reports/templates/reports/feeding_duration.html:8
 msgid "Average Feeding Durations"
-msgstr "Durchschnittliche Mahlzeiten-Dauer"
+msgstr "Durchschnittliche Mahlzeitendauer"
 
 #: reports/templates/reports/report_base.html:9
 msgid "Reports"
